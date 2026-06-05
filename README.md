@@ -1,0 +1,2 @@
+# Detection-of-Parkinson-s-Disease-Using-Machine-Learning-Algorithms-and-Comparing-Them
+Parkinson’s Disease Detection and Prediction using Machine Learning A machine learning project that predicts Parkinson’s disease from biomedical voice measurements using preprocessing, SMOTE balancing, PCA, and multiple classification models including Random Forest, SVM, KNN, Logistic Regression, Decision Tree, and AdaBoost.
